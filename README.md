@@ -32,7 +32,7 @@ Update the numbers above manually as modules are completed — GitHub re-renders
 ## Checklist
 
 - [x] **Foundations & Course Setup** — 0.7h — GenAI jargon, Foundry ecosystem & tools
-- [ ] **Foundry Agents, SDK & RAG intro** — 2.7h — Foundry resource + OpenAI labs, agents, RAG, vector embeddings
+- [X] **Foundry Agents, SDK & RAG intro** — 2.7h — Foundry resource + OpenAI labs, agents, RAG, vector embeddings
 - [ ] **Containers & ACR** — 1.6h — Docker, building/running locally, pushing & managing images
 - [ ] **Azure App Service & Web Apps** — 3.2h — Deploying containers, managed identity, Key Vault, deployment slots
 - [ ] **Kubernetes / AKS** — 4.0h — Cluster creation, kubectl, ACR integration, networking, ConfigMaps, sidecars, PV/PVC
